@@ -1,4 +1,4 @@
-# grpc-java
+# grpc-java with MongoDB :leaves:
 :honeybee: A Google Remote Procedure Call Implementation using Java and MongoDB
 
 > References:
